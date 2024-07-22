@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm passionate about optimizing software delivery 
 
 Explore some of my recent projects:
 - [Two-tier application deployment](https://lnkd.in/g_WzDiV2)
-- [Integrating AWS Lex Chatbot with Facebook Messenger using AWS Lambda: Seamless Conversations, Enhanced Insights](https://lnkd.in/g_WzDiV2)
+- [AWS Lex Chatbot with Facebook Messenger using AWS Lambda](https://lnkd.in/g_WzDiV2)
 - [Project 3 Name](#link-to-project3)
 
 ## Get in Touch
