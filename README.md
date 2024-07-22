@@ -13,7 +13,7 @@ Welcome to my GitHub profile! I'm passionate about optimizing software delivery 
 ## Projects
 
 Explore some of my recent projects:
-- [Project 1 Name](#link-to-project1)
+- [Two-tier application deployment](https://lnkd.in/g_WzDiV2)
 - [Project 2 Name](#link-to-project2)
 - [Project 3 Name](#link-to-project3)
 
