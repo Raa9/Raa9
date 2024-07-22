@@ -8,7 +8,8 @@ Welcome to my GitHub profile! I'm passionate about optimizing software delivery 
 
 - **DevOps**: Automated CI/CD pipelines, Infrastructure as Code (IaC), Configuration Management
 - **Cloud Platforms**: AWS, Azure, Google Cloud Platform (GCP)
-- **Tools**: Docker, Kubernetes, Terraform, Ansible
+- **Tools**: Docker, Kubernetes, Terraform, Ansible, Jenkins,
+- **Programming**: Python, Bash, Shell Scripting
 
 ## Projects
 
